@@ -25,6 +25,7 @@ subscription and makes its requests. The packages work in OpenCode and in
 | [workbuddy](packages/workbuddy) | WorkBuddy (international build) | `workbuddy-ai` |
 | [zcode](packages/zcode) | ZCode: Z.ai / BigModel (智谱) GLM Coding Plan, team seats, Start Plan | `zcode` |
 | [zed](packages/zed) | Zed (Pro, Pro Trial, Student, Business): Anthropic, OpenAI, Google and xAI models hosted by Zed | `zed` |
+| [zenmux](packages/zenmux) | ZenMux Builder Plan (Starter, Max, Ultra): the plan's 5-hour and 7-day quota and when they reset, with a Management API key | `zenmux-plan` |
 | [zen-free](packages/zen-free) | OpenCode Zen free models with the public credential | `opencode-zen-free` |
 
 ## Gateway middleware
